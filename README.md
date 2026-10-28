@@ -1,14 +1,17 @@
 <!-- GIF HEADER -->
 <div align="center">
   <img
-    src="https://media.giphy.com/media/b4I5lFMkPXEDj3xYH0/giphy.gif"
+    src="https://media.giphy.com/media/SWYwxRDFcRuRSneRHF/giphy.gif"
     width="100%"
     alt="Banner de perfil"
   />
 </div>
 
 <h1 align="center">Hi , I'm Guillermo Calle <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
+<p align="center">
+<a href="https://www.linkedin.com/in/guillermocr221/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+<a href = "mailto:guillermocr221@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+  </p>
 # 💫 About Me:
 
 🎓 Studying: Software Engineering @ UNMSM (Peru), turning theory into real products<br>
