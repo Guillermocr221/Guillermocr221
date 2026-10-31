@@ -15,11 +15,11 @@
 
 ## 💫 About Me:
 
-🎓 Studying: Software Engineering @ UNMSM (Peru), turning theory into real products<br>
-💼 Working: Software Engineer @ Digrafic, building remotely since 2026<br>
-🚀 Current quest: Leveling up in React while getting deeper into backend architecture<br>
-📱 What I build: Web apps and mobile apps, from the interface to the logic behind it<br>
-🤝 Team ups: Open to collaborating on frontend, backend, or both. Hackathons and side projects are always welcome<br>
+🎓 Studying: Software Engineering @ UNMSM (Peru), turning theory into real products.<br>
+💼 Working: Software Engineer @ Digrafic, building remotely since 2026.<br>
+🚀 Current quest: Leveling up in React while getting deeper into backend architecture.<br>
+📱 What I build: Web apps and mobile apps, from the interface to the logic behind it.<br>
+🤝 Team ups: Open to collaborating on frontend, backend, or both. Hackathons and side projects are always welcome.<br>
 🔍 Specialty: Bridging frontend flair and backend brains<br>
 
 > Code, Apps & Hacks 💻
